@@ -19,7 +19,7 @@ public class TutorialEntity {
     @Column(name = "published")
     private boolean published;
 
-    public TutorialEntity() {
+    public TutorialEntity(String cidade, String dia, String turno, String maxima, String minima, String umidade, String precipitacao, String velocidadeDoTempo) {
 
     }
 

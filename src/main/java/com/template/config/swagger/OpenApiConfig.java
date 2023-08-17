@@ -12,7 +12,7 @@ import io.swagger.v3.oas.models.info.Info;
 import io.swagger.v3.oas.models.info.License;
 import io.swagger.v3.oas.models.servers.Server;
 
-// Para acessar o open api docs (swagger) vá para o link: http://localhost:4767/swagger-ui/index.html
+// Para acessar o open api docs (swagger) vá para o link: http://F:4767/swagger-ui/index.html
 // Para acessar os api docs vá para o link: http://localhost:4767/v3/api-docs
 
 @Configuration
